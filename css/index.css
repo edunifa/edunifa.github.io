@@ -54,3 +54,42 @@ a::before{
 
 }
 
+
+.main-box{
+    display: inline-flex;
+    background-color: #4266C9;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 627px;
+    height: 184px;
+    margin-top: 116px;
+    margin-left: 91px;
+
+}
+
+h2{
+    
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 40px;
+    color: #FFF;
+    text-shadow: 3px 3px 2px #4266C9;
+    padding-top: 42px;
+    margin: 0px;
+    
+
+    
+    }
+
+p{
+    color: #FFF;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 2px #000;
+    padding-bottom: 51px;
+    margin: 0px;
+
+   
+}
