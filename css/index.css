@@ -36,6 +36,7 @@ a::before{
         margin-right: 10px;
 
 
+
     }
 
     a:hover{
@@ -70,12 +71,23 @@ a::before{
 
 }
 
+.background-image{
+    display: inline-flex;
+    background-image: url("../assets/img/main-background.png");
+    height: 797px;
+    width: 955px;
+    margin: 0px;
+
+
+}
+
+
 h2{
     
     font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
     color: #FFF;
-    text-shadow: 3px 3px 2px #4266C9;
+    text-shadow: 3px 3px 2px #000;
     padding-top: 42px;
     margin: 0px;
     
