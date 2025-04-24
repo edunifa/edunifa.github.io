@@ -82,20 +82,9 @@ a::before{
 }
 
 
-h2{
-    
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 40px;
-    color: #FFF;
-    text-shadow: 3px 3px 2px #000;
-    padding-top: 42px;
-    margin: 0px;
-    
 
-    
-    }
 
-p{
+h3{
     color: #FFF;
     font-family: "Press Start 2P", sans-serif;
     font-size: 30px;
